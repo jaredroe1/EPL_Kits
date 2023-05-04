@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    password: eplkits
+    username: eplkits
+    url: jdbc:mysql://localhost:3306/eplkits
+
+
+logging:
+  level:
+    root: warn
+    '[com.promineotech]': debug    
